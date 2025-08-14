@@ -29,3 +29,37 @@ calculator_project/
 - **CSS3** – Styling and layout
 - **JavaScript (ES6)** – Functionality
 
+# 🌟 Tribute Page
+
+A simple and elegant **Tribute Page** built using **HTML**, **CSS**, and optionally **JavaScript**.  
+This page is designed to honor and showcase the life, achievements, and legacy of a person or cause you admire.
+
+---
+
+## 🚀 Features
+- Clean, modern, and responsive design
+- Section for biography, images, and achievements
+- Smooth layout with CSS styling
+- Easy to customize for any person or topic
+- Accessible design for better readability
+
+---
+
+## 📂 Project Structure
+tribute_page/
+│── index.html # Main HTML file
+│── style.css # Stylesheet for the tribute page
+│── script.js # Optional JavaScript for interactivity
+│── images/ # Images used in the tribute page
+
+yaml
+Copy
+Edit
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5** – Structure and content
+- **CSS3** – Styling and layout
+- **JavaScript** – Optional interactivity
+
