@@ -16,3 +16,16 @@ This project performs basic arithmetic operations like addition, subtraction, mu
 ---
 
 ## 📂 Project Structure
+calculator_project/
+│── index.html # Main HTML file
+│── style.css # Stylesheet for the calculator
+│── script.js # JavaScript logic for calculations
+
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5** – Structure
+- **CSS3** – Styling and layout
+- **JavaScript (ES6)** – Functionality
+
